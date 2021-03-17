@@ -1,1 +1,1 @@
-Daily journal/blog using node express
+Daily journal/blog using node express and EJS 
